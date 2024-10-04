@@ -1,6 +1,28 @@
-# Upc2402si729eau201912668
+# CatchUp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.7.
+## Summary
+
+Eventify Web Application, illustrating presentation of events, attendees and ratings obtained from a fake api. The project uses Angular, TypeScript, and Angular Material. It also includes i18n support through ngx-translate.
+
+## Features
+
+Main features included in this project are:
+
+- Fetching data from Json Server
+- Displaying events from an events endpoint
+- Displaying attendees statistics from an attendees endpoint
+- Creating new ratings for events
+- i18n support for English and Spanish languages
+- Routing for different views
+- Environment configuration for development and production
+
+## Framework
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.2.
+It also uses the following libraries:
+- [Angular Material](https://material.angular.io/)
+- [ngx-translate](https://www.npmjs.com/package/@ngx-translate/core)
+- [ngx-translate/http-loader](https://www.npmjs.com/package/@ngx-translate/http-loader)
 
 ## Development server
 
@@ -25,3 +47,6 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
+## Author
+Developed by Franz Escalante, Software Engineer student and web developer.

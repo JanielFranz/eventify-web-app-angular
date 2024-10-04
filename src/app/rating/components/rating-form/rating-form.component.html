@@ -1,0 +1,7 @@
+<form [formGroup]="rateForm" (ngSubmit)="onSubmit()" class="form">
+  <label for="ticket-identifier">Ticket Identifier:</label>
+  <input id="ticket-identifier" type="text" formControlName="ticketIdentifier">
+  <label for="rating">Rate:</label>
+  <input id="rating" type="number" formControlName="rating">
+  <button type="submit">Rate Event</button>
+</form>

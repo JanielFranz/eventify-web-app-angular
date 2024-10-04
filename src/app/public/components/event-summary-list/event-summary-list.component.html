@@ -1,0 +1,8 @@
+<div>
+  <div *ngFor="let event of events">
+    <app-event-summary-item [event]="event"
+                            [attendees]="attendees"
+                            [ratings]="ratings"
+    />
+  </div>
+</div>

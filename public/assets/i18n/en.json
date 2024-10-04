@@ -1,0 +1,12 @@
+{
+  "home" : {
+    "title": "Registered Events",
+    "totalAttendees": "Checked-In Attendees: ",
+    "average": "Average Rating: "
+  },
+  "newRating": {
+    "title": "Add a Rating for the Event you attended",
+    "ticketId": "Ticket Identifier",
+    "rating": "Rate"
+  }
+}

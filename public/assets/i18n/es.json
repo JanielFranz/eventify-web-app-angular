@@ -1,0 +1,12 @@
+{
+  "home" : {
+    "title": "Eventos Registrados",
+    "totalAttendees": "Asistentes confirmados: ",
+    "average": "Promedio de resenia: "
+  },
+  "newRating": {
+    "title": "Agrega resenia a evento asistido",
+    "ticketId": "Identificador de ticket",
+    "rating": "Resenia"
+  }
+}
